@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Manisha</h1>
-<h3 align="center">Software Developer & DSA Enthusiast | Builder of Tools that Break & Fix</h3>
+<h3 align="center"><b><i>Software Developer & DSA Enthusiast | Builder of Tools that Break & Fix</i></b></h3>
+
 
 ---
 
