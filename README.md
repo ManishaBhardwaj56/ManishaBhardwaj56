@@ -12,7 +12,7 @@
 - HTML, CSS, JavaScript  
 - DSA (Data Structures & Algorithms)  
 - React.js, Node.js  
-- Python, .NET  
+ 
 
 ### ⚙️ Other Tools  
 - Linux  
